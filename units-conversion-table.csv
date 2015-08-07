@@ -1,0 +1,1138 @@
+conversion_type,from,to,multiply_by
+Length,Kilometer,Meter,1000
+Length,Kilometer,Centimeter,100000
+Length,Kilometer,Millimeter,1e+6
+Length,Kilometer,Mile,0.621371
+Length,Kilometer,Yard,1093.61
+Length,Kilometer,Foot,3280.84
+Length,Kilometer,Inch,39370.1
+Length,Kilometer,Nautical mile,0.539957
+Length,Meter,Kilometer,0.001
+Length,Meter,Centimeter,100
+Length,Meter,Millimeter,1000
+Length,Meter,Mile,0.000621371
+Length,Meter,Yard,1.09361
+Length,Meter,Foot,3.28084
+Length,Meter,Inch,39.3701
+Length,Meter,Nautical mile,0.000539957
+Length,Centimeter,Kilometer,1e-5
+Length,Centimeter,Meter,0.01
+Length,Centimeter,Millimeter,10
+Length,Centimeter,Mile,6.2137e-6
+Length,Centimeter,Yard,0.0109361
+Length,Centimeter,Foot,0.0328084
+Length,Centimeter,Inch,0.393701
+Length,Centimeter,Nautical mile,5.3996e-6
+Length,Millimeter,Kilometer,1e-6
+Length,Millimeter,Meter,0.001
+Length,Millimeter,Centimeter,0.1
+Length,Millimeter,Mile,6.2137e-7
+Length,Millimeter,Yard,0.00109361
+Length,Millimeter,Foot,0.00328084
+Length,Millimeter,Inch,0.0393701
+Length,Millimeter,Nautical mile,5.3996e-7
+Length,Mile,Kilometer,1.60934
+Length,Mile,Meter,1609.34
+Length,Mile,Centimeter,160934
+Length,Mile,Millimeter,1.609e+6
+Length,Mile,Yard,1760
+Length,Mile,Foot,5280
+Length,Mile,Inch,63360
+Length,Mile,Nautical mile,0.868976
+Length,Yard,Kilometer,0.0009144
+Length,Yard,Meter,0.9144
+Length,Yard,Centimeter,91.44
+Length,Yard,Millimeter,914.4
+Length,Yard,Mile,0.000568182
+Length,Yard,Foot,3
+Length,Yard,Inch,36
+Length,Yard,Nautical mile,0.000493737
+Length,Foot,Kilometer,0.0003048
+Length,Foot,Meter,0.3048
+Length,Foot,Centimeter,30.48
+Length,Foot,Millimeter,304.8
+Length,Foot,Mile,0.000189394
+Length,Foot,Yard,0.333333
+Length,Foot,Inch,12
+Length,Foot,Nautical mile,0.000164579
+Length,Inch,Kilometer,2.54e-5
+Length,Inch,Meter,0.0254
+Length,Inch,Centimeter,2.54
+Length,Inch,Millimeter,25.4
+Length,Inch,Mile,1.5783e-5
+Length,Inch,Yard,0.0277778
+Length,Inch,Foot,0.0833333
+Length,Inch,Nautical mile,1.3715e-5
+Length,Nautical mile,Inch,72913.4
+Length,Nautical mile,Meter,1852
+Length,Nautical mile,Centimeter,185200
+Length,Nautical mile,Millimeter,1.852e+6
+Length,Nautical mile,Mile,1.15078
+Length,Nautical mile,Yard,2025.37
+Length,Nautical mile,Foot,6076.12
+Mass,Metric ton,Kilogram,1000
+Mass,Metric ton,Gram,1e+6
+Mass,Metric ton,Milligram,1e+9
+Mass,Metric ton,Mcg,1e+12
+Mass,Metric ton,Long ton,0.984207
+Mass,Metric ton,Short ton,1.10231
+Mass,Metric ton,Stone,157.473
+Mass,Metric ton,Pound,2204.62
+Mass,Metric ton,Ounce,35274
+Mass,Kilogram,Metric ton,0.001
+Mass,Kilogram,Gram,1000
+Mass,Kilogram,Milligram,1e+6
+Mass,Kilogram,Mcg,1e+9
+Mass,Kilogram,Long ton,0.000984207
+Mass,Kilogram,Short ton,0.00110231
+Mass,Kilogram,Stone,0.157473
+Mass,Kilogram,Pound,2.20462
+Mass,Kilogram,Ounce,35.274
+Mass,Gram,Metric ton,1e-6
+Mass,Gram,Kilogram,0.001
+Mass,Gram,Milligram,1000
+Mass,Gram,Mcg,1e+6
+Mass,Gram,Long ton,9.8421e-7
+Mass,Gram,Short ton,1.1023e-6
+Mass,Gram,Stone,0.000157473
+Mass,Gram,Pound,0.00220462
+Mass,Gram,Ounce,0.035274
+Mass,Milligram,Metric ton,1e-9
+Mass,Milligram,Kilogram,1e-6
+Mass,Milligram,Gram,0.001
+Mass,Milligram,Mcg,1000
+Mass,Milligram,Long ton,9.8421e-10
+Mass,Milligram,Short ton,1.1023e-9
+Mass,Milligram,Stone,1.5747e-7
+Mass,Milligram,Pound,2.2046e-6
+Mass,Milligram,Ounce,3.5274e-5
+Mass,Mcg,Metric ton,1e-12
+Mass,Mcg,Kilogram,1e-9
+Mass,Mcg,Gram,1e-6
+Mass,Mcg,Milligram,0.001
+Mass,Mcg,Long ton,9.8421e-13
+Mass,Mcg,Short ton,1.1023e-12
+Mass,Mcg,Stone,1.5747e-10
+Mass,Mcg,Pound,2.2046e-9
+Mass,Mcg,Ounce,3.5274e-8
+Mass,Long ton,Metric ton,1.01605
+Mass,Long ton,Kilogram,1016.05
+Mass,Long ton,Gram,1.016e+6
+Mass,Long ton,Milligram,1.016e+9
+Mass,Long ton,Mcg,1.016e+12
+Mass,Long ton,Short ton,1.12
+Mass,Long ton,Stone,160
+Mass,Long ton,Pound,2240
+Mass,Long ton,Ounce,35840
+Mass,Short ton,Metric ton,0.907185
+Mass,Short ton,Kilogram,907.185
+Mass,Short ton,Gram,907185
+Mass,Short ton,Milligram,9.072e+8
+Mass,Short ton,Mcg,9.072e+11
+Mass,Short ton,Long ton,0.892857
+Mass,Short ton,Stone,142.857
+Mass,Short ton,Pound,2000
+Mass,Short ton,Ounce,32000
+Mass,Stone,Metric ton,0.00635029
+Mass,Stone,Kilogram,6.35029
+Mass,Stone,Gram,6350.29
+Mass,Stone,Milligram,6.35e+6
+Mass,Stone,Mcg,6.35e+9
+Mass,Stone,Long ton,0.00625
+Mass,Stone,Short ton,0.007
+Mass,Stone,Pound,14
+Mass,Stone,Ounce,224
+Mass,Pound,Metric ton,0.000453592
+Mass,Pound,Kilogram,0.453592
+Mass,Pound,Gram,453.592
+Mass,Pound,Milligram,453592
+Mass,Pound,Mcg,4.536e+8
+Mass,Pound,Long ton,0.000446429
+Mass,Pound,Short ton,0.0005
+Mass,Pound,Stone,0.0714286
+Mass,Pound,Ounce,16
+Mass,Ounce,Pound,0.0625
+Mass,Ounce,Kilogram,0.0283495
+Mass,Ounce,Gram,28.3495
+Mass,Ounce,Milligram,28349.5
+Mass,Ounce,Mcg,2.835e+7
+Mass,Ounce,Long ton,2.7902e-5
+Mass,Ounce,Short ton,3.125e-5
+Mass,Ounce,Stone,0.00446429
+Speed,Miles/hour,Feet/sec,1.46667
+Speed,Miles/hour,Meters/sec,0.44704
+Speed,Miles/hour,Km/hour,1.60934
+Speed,Miles/hour,Knot,0.868976
+Speed,Feet/sec,Miles/hour,0.681818
+Speed,Feet/sec,Meters/sec,0.3048
+Speed,Feet/sec,Km/hour,1.09728
+Speed,Feet/sec,Knot,0.592484
+Speed,Meters/sec,Miles/hour,2.23694
+Speed,Meters/sec,Feet/sec,3.28084
+Speed,Meters/sec,Km/hour,3.6
+Speed,Meters/sec,Knot,1.94384
+Speed,Km/hour,Miles/hour,0.621371
+Speed,Km/hour,Feet/sec,0.911344
+Speed,Km/hour,Meters/sec,0.277778
+Speed,Km/hour,Knot,0.539957
+Speed,Knot,Feet/sec,1.68781
+Speed,Knot,Meters/sec,0.514444
+Speed,Knot,Km/hour,1.852
+Volume,US gal,US quart,4
+Volume,US gal,US pint,8
+Volume,US gal,US cup,16
+Volume,US gal,US oz,128
+Volume,US gal,US tbsp.,256
+Volume,US gal,US tsp.,768
+Volume,US gal,Cubic meter,0.00378541
+Volume,US gal,Liter,3.78541
+Volume,US gal,Milliliter,3785.41
+Volume,US gal,Imperial gal,0.832674
+Volume,US gal,Imperial quart,3.3307
+Volume,US gal,Imperial pint,6.66139
+Volume,US gal,Imperial oz,133.228
+Volume,US gal,Imperial tbsp.,213.165
+Volume,US gal,Imperial tsp.,639.494
+Volume,US gal,Cubic foot,0.133681
+Volume,US gal,Cubic inch,231
+Volume,US quart,US gal,0.25
+Volume,US quart,US pint,2
+Volume,US quart,US cup,4
+Volume,US quart,US oz,32
+Volume,US quart,US tbsp.,64
+Volume,US quart,US tsp.,192
+Volume,US quart,Cubic meter,0.000946353
+Volume,US quart,Liter,0.946353
+Volume,US quart,Milliliter,946.353
+Volume,US quart,Imperial gal,0.208168
+Volume,US quart,Imperial quart,0.832674
+Volume,US quart,Imperial pint,1.66535
+Volume,US quart,Imperial oz,33.307
+Volume,US quart,Imperial tbsp.,53.2911
+Volume,US quart,Imperial tsp.,159.873
+Volume,US quart,Cubic foot,0.0334201
+Volume,US quart,Cubic inch,57.75
+Volume,US pint,US gal,0.125
+Volume,US pint,US quart,0.5
+Volume,US pint,US cup,2
+Volume,US pint,US oz,16
+Volume,US pint,US tbsp.,32
+Volume,US pint,US tsp.,96
+Volume,US pint,Cubic meter,0.000473176
+Volume,US pint,Liter,0.473176
+Volume,US pint,Milliliter,473.176
+Volume,US pint,Imperial gal,0.104084
+Volume,US pint,Imperial quart,0.416337
+Volume,US pint,Imperial pint,0.832674
+Volume,US pint,Imperial oz,16.6535
+Volume,US pint,Imperial tbsp.,26.6456
+Volume,US pint,Imperial tsp.,79.9367
+Volume,US pint,Cubic foot,0.0167101
+Volume,US pint,Cubic inch,28.875
+Volume,US cup,US gal,0.0625
+Volume,US cup,US quart,0.25
+Volume,US cup,US pint,0.5
+Volume,US cup,US oz,8
+Volume,US cup,US tbsp.,16
+Volume,US cup,US tsp.,48
+Volume,US cup,Cubic meter,0.000236588
+Volume,US cup,Liter,0.236588
+Volume,US cup,Milliliter,236.588
+Volume,US cup,Imperial gal,0.0520421
+Volume,US cup,Imperial quart,0.208168
+Volume,US cup,Imperial pint,0.416337
+Volume,US cup,Imperial oz,8.32674
+Volume,US cup,Imperial tbsp.,13.3228
+Volume,US cup,Imperial tsp.,39.9683
+Volume,US cup,Cubic foot,0.00835503
+Volume,US cup,Cubic inch,14.4375
+Volume,US oz,US gal,0.0078125
+Volume,US oz,US quart,0.03125
+Volume,US oz,US pint,0.0625
+Volume,US oz,US cup,0.125
+Volume,US oz,US tbsp.,2
+Volume,US oz,US tsp.,6
+Volume,US oz,Cubic meter,2.9574e-5
+Volume,US oz,Liter,0.0295735
+Volume,US oz,Milliliter,29.5735
+Volume,US oz,Imperial gal,0.00650526
+Volume,US oz,Imperial quart,0.0260211
+Volume,US oz,Imperial pint,0.0520421
+Volume,US oz,Imperial oz,1.04084
+Volume,US oz,Imperial tbsp.,1.66535
+Volume,US oz,Imperial tsp.,4.99604
+Volume,US oz,Cubic foot,0.00104438
+Volume,US oz,Cubic inch,1.80469
+Volume,US tbsp.,US gal,0.00390625
+Volume,US tbsp.,US quart,0.015625
+Volume,US tbsp.,US pint,0.03125
+Volume,US tbsp.,US cup,0.0625
+Volume,US tbsp.,US oz,0.5
+Volume,US tbsp.,US tsp.,3
+Volume,US tbsp.,Cubic meter,1.4787e-5
+Volume,US tbsp.,Liter,0.0147868
+Volume,US tbsp.,Milliliter,14.7868
+Volume,US tbsp.,Imperial gal,0.00325263
+Volume,US tbsp.,Imperial quart,0.0130105
+Volume,US tbsp.,Imperial pint,0.0260211
+Volume,US tbsp.,Imperial oz,0.520421
+Volume,US tbsp.,Imperial tbsp.,0.832674
+Volume,US tbsp.,Imperial tsp.,2.49802
+Volume,US tbsp.,Cubic foot,0.00052219
+Volume,US tbsp.,Cubic inch,0.902344
+Volume,US tsp.,US gal,0.00130208
+Volume,US tsp.,US quart,0.00520833
+Volume,US tsp.,US pint,0.0104167
+Volume,US tsp.,US cup,0.0208333
+Volume,US tsp.,US oz,0.166667
+Volume,US tsp.,US tbsp.,0.333333
+Volume,US tsp.,Cubic meter,4.9289e-6
+Volume,US tsp.,Liter,0.00492892
+Volume,US tsp.,Milliliter,4.92892
+Volume,US tsp.,Imperial gal,0.00108421
+Volume,US tsp.,Imperial quart,0.00433684
+Volume,US tsp.,Imperial pint,0.00867369
+Volume,US tsp.,Imperial oz,0.173474
+Volume,US tsp.,Imperial tbsp.,0.277558
+Volume,US tsp.,Imperial tsp.,0.832674
+Volume,US tsp.,Cubic foot,0.000174063
+Volume,US tsp.,Cubic inch,0.300781
+Volume,Cubic meter,US gal,264.172
+Volume,Cubic meter,US quart,1056.69
+Volume,Cubic meter,US pint,2113.38
+Volume,Cubic meter,US cup,4226.75
+Volume,Cubic meter,US oz,33814
+Volume,Cubic meter,US tbsp.,67628
+Volume,Cubic meter,US tsp.,202884
+Volume,Cubic meter,Liter,1000
+Volume,Cubic meter,Milliliter,1e+6
+Volume,Cubic meter,Imperial gal,219.969
+Volume,Cubic meter,Imperial quart,879.877
+Volume,Cubic meter,Imperial pint,1759.75
+Volume,Cubic meter,Imperial oz,35195.1
+Volume,Cubic meter,Imperial tbsp.,56312.1
+Volume,Cubic meter,Imperial tsp.,168936
+Volume,Cubic meter,Cubic foot,35.3147
+Volume,Cubic meter,Cubic inch,61023.7
+Volume,Liter,US gal,0.264172
+Volume,Liter,US quart,1.05669
+Volume,Liter,US pint,2.11338
+Volume,Liter,US cup,4.22675
+Volume,Liter,US oz,33.814
+Volume,Liter,US tbsp.,67.628
+Volume,Liter,US tsp.,202.884
+Volume,Liter,Cubic meter,0.001
+Volume,Liter,Milliliter,1000
+Volume,Liter,Imperial gal,0.219969
+Volume,Liter,Imperial quart,0.879877
+Volume,Liter,Imperial pint,1.75975
+Volume,Liter,Imperial oz,35.1951
+Volume,Liter,Imperial tbsp.,56.3121
+Volume,Liter,Imperial tsp.,168.936
+Volume,Liter,Cubic foot,0.0353147
+Volume,Liter,Cubic inch,61.0237
+Volume,Milliliter,US gal,0.000264172
+Volume,Milliliter,US quart,0.00105669
+Volume,Milliliter,US pint,0.00211338
+Volume,Milliliter,US cup,0.00422675
+Volume,Milliliter,US oz,0.033814
+Volume,Milliliter,US tbsp.,0.067628
+Volume,Milliliter,US tsp.,0.202884
+Volume,Milliliter,Cubic meter,1e-6
+Volume,Milliliter,Liter,0.001
+Volume,Milliliter,Imperial gal,0.000219969
+Volume,Milliliter,Imperial quart,0.000879877
+Volume,Milliliter,Imperial pint,0.00175975
+Volume,Milliliter,Imperial oz,0.0351951
+Volume,Milliliter,Imperial tbsp.,0.0563121
+Volume,Milliliter,Imperial tsp.,0.168936
+Volume,Milliliter,Cubic foot,3.5315e-5
+Volume,Milliliter,Cubic inch,0.0610237
+Volume,Imperial gal,US gal,1.20095
+Volume,Imperial gal,US quart,4.8038
+Volume,Imperial gal,US pint,9.6076
+Volume,Imperial gal,US cup,19.2152
+Volume,Imperial gal,US oz,153.722
+Volume,Imperial gal,US tbsp.,307.443
+Volume,Imperial gal,US tsp.,922.33
+Volume,Imperial gal,Cubic meter,0.00454609
+Volume,Imperial gal,Liter,4.54609
+Volume,Imperial gal,Milliliter,4546.09
+Volume,Imperial gal,Imperial quart,4
+Volume,Imperial gal,Imperial pint,8
+Volume,Imperial gal,Imperial oz,160
+Volume,Imperial gal,Imperial tbsp.,256
+Volume,Imperial gal,Imperial tsp.,768
+Volume,Imperial gal,Cubic foot,0.160544
+Volume,Imperial gal,Cubic inch,277.42
+Volume,Imperial quart,US gal,0.300238
+Volume,Imperial quart,US quart,1.20095
+Volume,Imperial quart,US pint,2.4019
+Volume,Imperial quart,US cup,4.8038
+Volume,Imperial quart,US oz,38.4304
+Volume,Imperial quart,US tbsp.,76.8608
+Volume,Imperial quart,US tsp.,230.582
+Volume,Imperial quart,Cubic meter,0.00113652
+Volume,Imperial quart,Liter,1.13652
+Volume,Imperial quart,Milliliter,1136.52
+Volume,Imperial quart,Imperial gal,0.25
+Volume,Imperial quart,Imperial pint,2
+Volume,Imperial quart,Imperial oz,40
+Volume,Imperial quart,Imperial tbsp.,64
+Volume,Imperial quart,Imperial tsp.,192
+Volume,Imperial quart,Cubic foot,0.0401359
+Volume,Imperial quart,Cubic inch,69.3549
+Volume,Imperial pint,US gal,0.150119
+Volume,Imperial pint,US quart,0.600475
+Volume,Imperial pint,US pint,1.20095
+Volume,Imperial pint,US cup,2.4019
+Volume,Imperial pint,US oz,19.2152
+Volume,Imperial pint,US tbsp.,38.4304
+Volume,Imperial pint,US tsp.,115.291
+Volume,Imperial pint,Cubic meter,0.000568261
+Volume,Imperial pint,Liter,0.568261
+Volume,Imperial pint,Milliliter,568.261
+Volume,Imperial pint,Imperial gal,0.125
+Volume,Imperial pint,Imperial quart,0.5
+Volume,Imperial pint,Imperial oz,20
+Volume,Imperial pint,Imperial tbsp.,32
+Volume,Imperial pint,Imperial tsp.,96
+Volume,Imperial pint,Cubic foot,0.020068
+Volume,Imperial pint,Cubic inch,34.6774
+Volume,Imperial oz,US gal,0.00750594
+Volume,Imperial oz,US quart,0.0300238
+Volume,Imperial oz,US pint,0.0600475
+Volume,Imperial oz,US cup,0.120095
+Volume,Imperial oz,US oz,0.96076
+Volume,Imperial oz,US tbsp.,1.92152
+Volume,Imperial oz,US tsp.,5.76456
+Volume,Imperial oz,Cubic meter,2.8413e-5
+Volume,Imperial oz,Liter,0.0284131
+Volume,Imperial oz,Milliliter,28.4131
+Volume,Imperial oz,Imperial gal,0.00625
+Volume,Imperial oz,Imperial quart,0.025
+Volume,Imperial oz,Imperial pint,0.05
+Volume,Imperial oz,Imperial tbsp.,1.6
+Volume,Imperial oz,Imperial tsp.,4.8
+Volume,Imperial oz,Cubic foot,0.0010034
+Volume,Imperial oz,Cubic inch,1.73387
+Volume,Imperial tbsp.,US gal,0.00469121
+Volume,Imperial tbsp.,US quart,0.0187649
+Volume,Imperial tbsp.,US pint,0.0375297
+Volume,Imperial tbsp.,US cup,0.0750594
+Volume,Imperial tbsp.,US oz,0.600475
+Volume,Imperial tbsp.,US tbsp.,1.20095
+Volume,Imperial tbsp.,US tsp.,3.60285
+Volume,Imperial tbsp.,Cubic meter,1.7758e-5
+Volume,Imperial tbsp.,Liter,0.0177582
+Volume,Imperial tbsp.,Milliliter,17.7582
+Volume,Imperial tbsp.,Imperial gal,0.00390625
+Volume,Imperial tbsp.,Imperial quart,0.015625
+Volume,Imperial tbsp.,Imperial pint,0.03125
+Volume,Imperial tbsp.,Imperial oz,0.625
+Volume,Imperial tbsp.,Imperial tsp.,3
+Volume,Imperial tbsp.,Cubic foot,0.000627124
+Volume,Imperial tbsp.,Cubic inch,1.08367
+Volume,Imperial tsp.,US gal,0.00156374
+Volume,Imperial tsp.,US quart,0.00625495
+Volume,Imperial tsp.,US pint,0.0125099
+Volume,Imperial tsp.,US cup,0.0250198
+Volume,Imperial tsp.,US oz,0.200158
+Volume,Imperial tsp.,US tbsp.,0.400317
+Volume,Imperial tsp.,US tsp.,1.20095
+Volume,Imperial tsp.,Cubic meter,5.9194e-6
+Volume,Imperial tsp.,Liter,0.00591939
+Volume,Imperial tsp.,Milliliter,5.91939
+Volume,Imperial tsp.,Imperial gal,0.00130208
+Volume,Imperial tsp.,Imperial quart,0.00520833
+Volume,Imperial tsp.,Imperial pint,0.0104167
+Volume,Imperial tsp.,Imperial oz,0.208333
+Volume,Imperial tsp.,Imperial tbsp.,0.333333
+Volume,Imperial tsp.,Cubic foot,0.000209041
+Volume,Imperial tsp.,Cubic inch,0.361223
+Volume,Cubic foot,US gal,7.48052
+Volume,Cubic foot,US quart,29.9221
+Volume,Cubic foot,US pint,59.8442
+Volume,Cubic foot,US cup,119.688
+Volume,Cubic foot,US oz,957.506
+Volume,Cubic foot,US tbsp.,1915.01
+Volume,Cubic foot,US tsp.,5745.04
+Volume,Cubic foot,Cubic meter,0.0283168
+Volume,Cubic foot,Liter,28.3168
+Volume,Cubic foot,Milliliter,28316.8
+Volume,Cubic foot,Imperial gal,6.22883
+Volume,Cubic foot,Imperial quart,24.9153
+Volume,Cubic foot,Imperial pint,49.8307
+Volume,Cubic foot,Imperial oz,996.613
+Volume,Cubic foot,Imperial tbsp.,1594.58
+Volume,Cubic foot,Imperial tsp.,4783.74
+Volume,Cubic foot,Cubic inch,1728
+Volume,Cubic inch,US quart,0.017316
+Volume,Cubic inch,US pint,0.034632
+Volume,Cubic inch,US cup,0.0692641
+Volume,Cubic inch,US oz,0.554113
+Volume,Cubic inch,US tbsp.,1.10823
+Volume,Cubic inch,US tsp.,3.32468
+Volume,Cubic inch,Cubic meter,1.6387e-5
+Volume,Cubic inch,Liter,0.0163871
+Volume,Cubic inch,Milliliter,16.3871
+Volume,Cubic inch,Imperial gal,0.00360465
+Volume,Cubic inch,Imperial quart,0.0144186
+Volume,Cubic inch,Imperial pint,0.0288372
+Volume,Cubic inch,Imperial oz,0.576744
+Volume,Cubic inch,Imperial tbsp.,0.92279
+Volume,Cubic inch,Imperial tsp.,2.76837
+Volume,Cubic inch,Cubic foot,0.000578704
+Area,Square km,Hectare,100
+Area,Square km,Square meter,1e+6
+Area,Square km,Square mile,0.386102
+Area,Square km,Acre,247.105
+Area,Square km,Square yard,1.196e+6
+Area,Square km,Square foot,1.076e+7
+Area,Square km,Square inch,1.55e+9
+Area,Hectare,Square km,0.01
+Area,Hectare,Square meter,10000
+Area,Hectare,Square mile,0.00386102
+Area,Hectare,Acre,2.47105
+Area,Hectare,Square yard,11959.9
+Area,Hectare,Square foot,107639
+Area,Hectare,Square inch,1.55e+7
+Area,Square meter,Square km,1e-6
+Area,Square meter,Hectare,1e-4
+Area,Square meter,Square mile,3.861e-7
+Area,Square meter,Acre,0.000247105
+Area,Square meter,Square yard,1.19599
+Area,Square meter,Square foot,10.7639
+Area,Square meter,Square inch,1550
+Area,Square mile,Square km,2.58999
+Area,Square mile,Hectare,258.999
+Area,Square mile,Square meter,2.59e+6
+Area,Square mile,Acre,640
+Area,Square mile,Square yard,3.098e+6
+Area,Square mile,Square foot,2.788e+7
+Area,Square mile,Square inch,4.014e+9
+Area,Acre,Square km,0.00404686
+Area,Acre,Hectare,0.404686
+Area,Acre,Square meter,4046.86
+Area,Acre,Square mile,0.0015625
+Area,Acre,Square yard,4840
+Area,Acre,Square foot,43560
+Area,Acre,Square inch,6.273e+6
+Area,Square yard,Square km,8.3613e-7
+Area,Square yard,Hectare,8.3613e-5
+Area,Square yard,Square meter,0.836127
+Area,Square yard,Square mile,3.2283e-7
+Area,Square yard,Acre,0.000206612
+Area,Square yard,Square foot,9
+Area,Square yard,Square inch,1296
+Area,Square foot,Square km,9.2903e-8
+Area,Square foot,Hectare,9.2903e-6
+Area,Square foot,Square meter,0.092903
+Area,Square foot,Square mile,3.587e-8
+Area,Square foot,Acre,2.2957e-5
+Area,Square foot,Square yard,0.111111
+Area,Square foot,Square inch,144
+Area,Square inch,Square foot,0.00694444
+Area,Square inch,Hectare,6.4516e-8
+Area,Square inch,Square meter,0.00064516
+Area,Square inch,Square mile,2.491e-10
+Area,Square inch,Acre,1.5942e-7
+Area,Square inch,Square yard,0.000771605
+Fuel consumption,MPG (US),MPG (imp.),1.20095
+Fuel consumption,MPG (US),Km/liter,0.425144
+Fuel consumption,MPG (imp.),MPG (US),0.832674
+Fuel consumption,MPG (imp.),Km/liter,0.354006
+Fuel consumption,Km/liter,MPG (US),2.35215
+Fuel consumption,Km/liter,MPG (imp.),2.82481
+Time,Nanosecond,Microsecond,0.001
+Time,Nanosecond,Millisecond,1e-6
+Time,Nanosecond,Second,1e-9
+Time,Nanosecond,Minute,1.6667e-11
+Time,Nanosecond,Hour,2.7778e-13
+Time,Nanosecond,Day,1.1574e-14
+Time,Nanosecond,Week,1.6534e-15
+Time,Nanosecond,Month,3.8027e-16
+Time,Nanosecond,Year,3.1689e-17
+Time,Nanosecond,Decade,3.1689e-18
+Time,Nanosecond,Century,3.1689e-19
+Time,Microsecond,Nanosecond,1000
+Time,Microsecond,Millisecond,0.001
+Time,Microsecond,Second,1e-6
+Time,Microsecond,Minute,1.6667e-8
+Time,Microsecond,Hour,2.7778e-10
+Time,Microsecond,Day,1.1574e-11
+Time,Microsecond,Week,1.6534e-12
+Time,Microsecond,Month,3.8027e-13
+Time,Microsecond,Year,3.1689e-14
+Time,Microsecond,Decade,3.1689e-15
+Time,Microsecond,Century,3.1689e-16
+Time,Millisecond,Nanosecond,1e+6
+Time,Millisecond,Microsecond,1000
+Time,Millisecond,Second,0.001
+Time,Millisecond,Minute,1.6667e-5
+Time,Millisecond,Hour,2.7778e-7
+Time,Millisecond,Day,1.1574e-8
+Time,Millisecond,Week,1.6534e-9
+Time,Millisecond,Month,3.8027e-10
+Time,Millisecond,Year,3.1689e-11
+Time,Millisecond,Decade,3.1689e-12
+Time,Millisecond,Century,3.1689e-13
+Time,Second,Nanosecond,1e+9
+Time,Second,Microsecond,1e+6
+Time,Second,Millisecond,1000
+Time,Second,Minute,0.0166667
+Time,Second,Hour,0.000277778
+Time,Second,Day,1.1574e-5
+Time,Second,Week,1.6534e-6
+Time,Second,Month,3.8027e-7
+Time,Second,Year,3.1689e-8
+Time,Second,Decade,3.1689e-9
+Time,Second,Century,3.1689e-10
+Time,Minute,Nanosecond,6e+10
+Time,Minute,Microsecond,6e+7
+Time,Minute,Millisecond,60000
+Time,Minute,Second,60
+Time,Minute,Hour,0.0166667
+Time,Minute,Day,0.000694444
+Time,Minute,Week,9.9206e-5
+Time,Minute,Month,2.2816e-5
+Time,Minute,Year,1.9013e-6
+Time,Minute,Decade,1.9013e-7
+Time,Minute,Century,1.9013e-8
+Time,Hour,Nanosecond,3.6e+12
+Time,Hour,Microsecond,3.6e+9
+Time,Hour,Millisecond,3.6e+6
+Time,Hour,Second,3600
+Time,Hour,Minute,60
+Time,Hour,Day,0.0416667
+Time,Hour,Week,0.00595238
+Time,Hour,Month,0.00136895
+Time,Hour,Year,0.00011408
+Time,Hour,Decade,1.1408e-5
+Time,Hour,Century,1.1408e-6
+Time,Day,Nanosecond,8.64e+13
+Time,Day,Microsecond,8.64e+10
+Time,Day,Millisecond,8.64e+7
+Time,Day,Second,86400
+Time,Day,Minute,1440
+Time,Day,Hour,24
+Time,Day,Week,0.142857
+Time,Day,Month,0.0328549
+Time,Day,Year,0.00273791
+Time,Day,Decade,0.000273791
+Time,Day,Century,2.7379e-5
+Time,Week,Nanosecond,6.048e+14
+Time,Week,Microsecond,6.048e+11
+Time,Week,Millisecond,6.048e+8
+Time,Week,Second,604800
+Time,Week,Minute,10080
+Time,Week,Hour,168
+Time,Week,Day,7
+Time,Week,Month,0.229984
+Time,Week,Year,0.0191654
+Time,Week,Decade,0.00191654
+Time,Week,Century,0.000191654
+Time,Month,Nanosecond,2.63e+15
+Time,Month,Microsecond,2.63e+12
+Time,Month,Millisecond,2.63e+9
+Time,Month,Second,2.63e+6
+Time,Month,Minute,43829.1
+Time,Month,Hour,730.484
+Time,Month,Day,30.4368
+Time,Month,Week,4.34812
+Time,Month,Year,0.0833333
+Time,Month,Decade,0.00833333
+Time,Month,Century,0.000833333
+Time,Year,Nanosecond,3.156e+16
+Time,Year,Microsecond,3.156e+13
+Time,Year,Millisecond,3.156e+10
+Time,Year,Second,3.156e+7
+Time,Year,Minute,525949
+Time,Year,Hour,8765.81
+Time,Year,Day,365.242
+Time,Year,Week,52.1775
+Time,Year,Month,12
+Time,Year,Decade,0.1
+Time,Year,Century,0.01
+Time,Decade,Nanosecond,3.156e+17
+Time,Decade,Microsecond,3.156e+14
+Time,Decade,Millisecond,3.156e+11
+Time,Decade,Second,3.156e+8
+Time,Decade,Minute,5.259e+6
+Time,Decade,Hour,87658.1
+Time,Decade,Day,3652.42
+Time,Decade,Week,521.775
+Time,Decade,Month,120
+Time,Decade,Year,10
+Time,Decade,Century,0.1
+Time,Century,Decade,10
+Time,Century,Microsecond,3.156e+15
+Time,Century,Millisecond,3.156e+12
+Time,Century,Second,3.156e+9
+Time,Century,Minute,5.259e+7
+Time,Century,Hour,876581
+Time,Century,Day,36524.2
+Time,Century,Week,5217.75
+Time,Century,Month,1200
+Time,Century,Year,100
+Digital Storage,Bit,Byte,0.125
+Digital Storage,Bit,Kilobit,0.001
+Digital Storage,Bit,Kilobyte,0.000125
+Digital Storage,Bit,Kibibit,0.000976563
+Digital Storage,Bit,Kibibyte,0.00012207
+Digital Storage,Bit,Megabit,1e-6
+Digital Storage,Bit,Megabyte,1.25e-7
+Digital Storage,Bit,Mebibit,9.5367e-7
+Digital Storage,Bit,Mebibyte,1.1921e-7
+Digital Storage,Bit,Gigabit,1e-9
+Digital Storage,Bit,Gigabyte,1.25e-10
+Digital Storage,Bit,Gibibit,9.3132e-10
+Digital Storage,Bit,Gibibyte,1.1642e-10
+Digital Storage,Bit,Terabit,1e-12
+Digital Storage,Bit,Terabyte,1.25e-13
+Digital Storage,Bit,Tebibit,9.0949e-13
+Digital Storage,Bit,Tebibyte,1.1369e-13
+Digital Storage,Bit,Petabit,1e-15
+Digital Storage,Bit,Petabyte,1.25e-16
+Digital Storage,Bit,Pebibit,8.8818e-16
+Digital Storage,Bit,Pebibyte,1.1102e-16
+Digital Storage,Byte,Bit,8
+Digital Storage,Byte,Kilobit,0.008
+Digital Storage,Byte,Kilobyte,0.001
+Digital Storage,Byte,Kibibit,0.0078125
+Digital Storage,Byte,Kibibyte,0.000976563
+Digital Storage,Byte,Megabit,8e-6
+Digital Storage,Byte,Megabyte,1e-6
+Digital Storage,Byte,Mebibit,7.6294e-6
+Digital Storage,Byte,Mebibyte,9.5367e-7
+Digital Storage,Byte,Gigabit,8e-9
+Digital Storage,Byte,Gigabyte,1e-9
+Digital Storage,Byte,Gibibit,7.4506e-9
+Digital Storage,Byte,Gibibyte,9.3132e-10
+Digital Storage,Byte,Terabit,8e-12
+Digital Storage,Byte,Terabyte,1e-12
+Digital Storage,Byte,Tebibit,7.276e-12
+Digital Storage,Byte,Tebibyte,9.0949e-13
+Digital Storage,Byte,Petabit,8e-15
+Digital Storage,Byte,Petabyte,1e-15
+Digital Storage,Byte,Pebibit,7.1054e-15
+Digital Storage,Byte,Pebibyte,8.8818e-16
+Digital Storage,Kilobit,Bit,1000
+Digital Storage,Kilobit,Byte,125
+Digital Storage,Kilobit,Kilobyte,0.125
+Digital Storage,Kilobit,Kibibit,0.976563
+Digital Storage,Kilobit,Kibibyte,0.12207
+Digital Storage,Kilobit,Megabit,0.001
+Digital Storage,Kilobit,Megabyte,0.000125
+Digital Storage,Kilobit,Mebibit,0.000953674
+Digital Storage,Kilobit,Mebibyte,0.000119209
+Digital Storage,Kilobit,Gigabit,1e-6
+Digital Storage,Kilobit,Gigabyte,1.25e-7
+Digital Storage,Kilobit,Gibibit,9.3132e-7
+Digital Storage,Kilobit,Gibibyte,1.1642e-7
+Digital Storage,Kilobit,Terabit,1e-9
+Digital Storage,Kilobit,Terabyte,1.25e-10
+Digital Storage,Kilobit,Tebibit,9.0949e-10
+Digital Storage,Kilobit,Tebibyte,1.1369e-10
+Digital Storage,Kilobit,Petabit,1e-12
+Digital Storage,Kilobit,Petabyte,1.25e-13
+Digital Storage,Kilobit,Pebibit,8.8818e-13
+Digital Storage,Kilobit,Pebibyte,1.1102e-13
+Digital Storage,Kilobyte,Bit,8000
+Digital Storage,Kilobyte,Byte,1000
+Digital Storage,Kilobyte,Kilobit,8
+Digital Storage,Kilobyte,Kibibit,7.8125
+Digital Storage,Kilobyte,Kibibyte,0.976563
+Digital Storage,Kilobyte,Megabit,0.008
+Digital Storage,Kilobyte,Megabyte,0.001
+Digital Storage,Kilobyte,Mebibit,0.00762939
+Digital Storage,Kilobyte,Mebibyte,0.000953674
+Digital Storage,Kilobyte,Gigabit,8e-6
+Digital Storage,Kilobyte,Gigabyte,1e-6
+Digital Storage,Kilobyte,Gibibit,7.4506e-6
+Digital Storage,Kilobyte,Gibibyte,9.3132e-7
+Digital Storage,Kilobyte,Terabit,8e-9
+Digital Storage,Kilobyte,Terabyte,1e-9
+Digital Storage,Kilobyte,Tebibit,7.276e-9
+Digital Storage,Kilobyte,Tebibyte,9.0949e-10
+Digital Storage,Kilobyte,Petabit,8e-12
+Digital Storage,Kilobyte,Petabyte,1e-12
+Digital Storage,Kilobyte,Pebibit,7.1054e-12
+Digital Storage,Kilobyte,Pebibyte,8.8818e-13
+Digital Storage,Kibibit,Bit,1024
+Digital Storage,Kibibit,Byte,128
+Digital Storage,Kibibit,Kilobit,1.024
+Digital Storage,Kibibit,Kilobyte,0.128
+Digital Storage,Kibibit,Kibibyte,0.125
+Digital Storage,Kibibit,Megabit,0.001024
+Digital Storage,Kibibit,Megabyte,0.000128
+Digital Storage,Kibibit,Mebibit,0.000976563
+Digital Storage,Kibibit,Mebibyte,0.00012207
+Digital Storage,Kibibit,Gigabit,1.024e-6
+Digital Storage,Kibibit,Gigabyte,1.28e-7
+Digital Storage,Kibibit,Gibibit,9.5367e-7
+Digital Storage,Kibibit,Gibibyte,1.1921e-7
+Digital Storage,Kibibit,Terabit,1.024e-9
+Digital Storage,Kibibit,Terabyte,1.28e-10
+Digital Storage,Kibibit,Tebibit,9.3132e-10
+Digital Storage,Kibibit,Tebibyte,1.1642e-10
+Digital Storage,Kibibit,Petabit,1.024e-12
+Digital Storage,Kibibit,Petabyte,1.28e-13
+Digital Storage,Kibibit,Pebibit,9.0949e-13
+Digital Storage,Kibibit,Pebibyte,1.1369e-13
+Digital Storage,Kibibyte,Bit,8192
+Digital Storage,Kibibyte,Byte,1024
+Digital Storage,Kibibyte,Kilobit,8.192
+Digital Storage,Kibibyte,Kilobyte,1.024
+Digital Storage,Kibibyte,Kibibit,8
+Digital Storage,Kibibyte,Megabit,0.008192
+Digital Storage,Kibibyte,Megabyte,0.001024
+Digital Storage,Kibibyte,Mebibit,0.0078125
+Digital Storage,Kibibyte,Mebibyte,0.000976563
+Digital Storage,Kibibyte,Gigabit,8.192e-6
+Digital Storage,Kibibyte,Gigabyte,1.024e-6
+Digital Storage,Kibibyte,Gibibit,7.6294e-6
+Digital Storage,Kibibyte,Gibibyte,9.5367e-7
+Digital Storage,Kibibyte,Terabit,8.192e-9
+Digital Storage,Kibibyte,Terabyte,1.024e-9
+Digital Storage,Kibibyte,Tebibit,7.4506e-9
+Digital Storage,Kibibyte,Tebibyte,9.3132e-10
+Digital Storage,Kibibyte,Petabit,8.192e-12
+Digital Storage,Kibibyte,Petabyte,1.024e-12
+Digital Storage,Kibibyte,Pebibit,7.276e-12
+Digital Storage,Kibibyte,Pebibyte,9.0949e-13
+Digital Storage,Megabit,Bit,1e+6
+Digital Storage,Megabit,Byte,125000
+Digital Storage,Megabit,Kilobit,1000
+Digital Storage,Megabit,Kilobyte,125
+Digital Storage,Megabit,Kibibit,976.563
+Digital Storage,Megabit,Kibibyte,122.07
+Digital Storage,Megabit,Megabyte,0.125
+Digital Storage,Megabit,Mebibit,0.953674
+Digital Storage,Megabit,Mebibyte,0.119209
+Digital Storage,Megabit,Gigabit,0.001
+Digital Storage,Megabit,Gigabyte,0.000125
+Digital Storage,Megabit,Gibibit,0.000931323
+Digital Storage,Megabit,Gibibyte,0.000116415
+Digital Storage,Megabit,Terabit,1e-6
+Digital Storage,Megabit,Terabyte,1.25e-7
+Digital Storage,Megabit,Tebibit,9.0949e-7
+Digital Storage,Megabit,Tebibyte,1.1369e-7
+Digital Storage,Megabit,Petabit,1e-9
+Digital Storage,Megabit,Petabyte,1.25e-10
+Digital Storage,Megabit,Pebibit,8.8818e-10
+Digital Storage,Megabit,Pebibyte,1.1102e-10
+Digital Storage,Megabyte,Bit,8e+6
+Digital Storage,Megabyte,Byte,1e+6
+Digital Storage,Megabyte,Kilobit,8000
+Digital Storage,Megabyte,Kilobyte,1000
+Digital Storage,Megabyte,Kibibit,7812.5
+Digital Storage,Megabyte,Kibibyte,976.563
+Digital Storage,Megabyte,Megabit,8
+Digital Storage,Megabyte,Mebibit,7.62939
+Digital Storage,Megabyte,Mebibyte,0.953674
+Digital Storage,Megabyte,Gigabit,0.008
+Digital Storage,Megabyte,Gigabyte,0.001
+Digital Storage,Megabyte,Gibibit,0.00745058
+Digital Storage,Megabyte,Gibibyte,0.000931323
+Digital Storage,Megabyte,Terabit,8e-6
+Digital Storage,Megabyte,Terabyte,1e-6
+Digital Storage,Megabyte,Tebibit,7.276e-6
+Digital Storage,Megabyte,Tebibyte,9.0949e-7
+Digital Storage,Megabyte,Petabit,8e-9
+Digital Storage,Megabyte,Petabyte,1e-9
+Digital Storage,Megabyte,Pebibit,7.1054e-9
+Digital Storage,Megabyte,Pebibyte,8.8818e-10
+Digital Storage,Mebibit,Bit,1.049e+6
+Digital Storage,Mebibit,Byte,131072
+Digital Storage,Mebibit,Kilobit,1048.58
+Digital Storage,Mebibit,Kilobyte,131.072
+Digital Storage,Mebibit,Kibibit,1024
+Digital Storage,Mebibit,Kibibyte,128
+Digital Storage,Mebibit,Megabit,1.04858
+Digital Storage,Mebibit,Megabyte,0.131072
+Digital Storage,Mebibit,Mebibyte,0.125
+Digital Storage,Mebibit,Gigabit,0.00104858
+Digital Storage,Mebibit,Gigabyte,0.000131072
+Digital Storage,Mebibit,Gibibit,0.000976563
+Digital Storage,Mebibit,Gibibyte,0.00012207
+Digital Storage,Mebibit,Terabit,1.0486e-6
+Digital Storage,Mebibit,Terabyte,1.3107e-7
+Digital Storage,Mebibit,Tebibit,9.5367e-7
+Digital Storage,Mebibit,Tebibyte,1.1921e-7
+Digital Storage,Mebibit,Petabit,1.0486e-9
+Digital Storage,Mebibit,Petabyte,1.3107e-10
+Digital Storage,Mebibit,Pebibit,9.3132e-10
+Digital Storage,Mebibit,Pebibyte,1.1642e-10
+Digital Storage,Mebibyte,Bit,8.389e+6
+Digital Storage,Mebibyte,Byte,1.049e+6
+Digital Storage,Mebibyte,Kilobit,8388.61
+Digital Storage,Mebibyte,Kilobyte,1048.58
+Digital Storage,Mebibyte,Kibibit,8192
+Digital Storage,Mebibyte,Kibibyte,1024
+Digital Storage,Mebibyte,Megabit,8.38861
+Digital Storage,Mebibyte,Megabyte,1.04858
+Digital Storage,Mebibyte,Mebibit,8
+Digital Storage,Mebibyte,Gigabit,0.00838861
+Digital Storage,Mebibyte,Gigabyte,0.00104858
+Digital Storage,Mebibyte,Gibibit,0.0078125
+Digital Storage,Mebibyte,Gibibyte,0.000976563
+Digital Storage,Mebibyte,Terabit,8.3886e-6
+Digital Storage,Mebibyte,Terabyte,1.0486e-6
+Digital Storage,Mebibyte,Tebibit,7.6294e-6
+Digital Storage,Mebibyte,Tebibyte,9.5367e-7
+Digital Storage,Mebibyte,Petabit,8.3886e-9
+Digital Storage,Mebibyte,Petabyte,1.0486e-9
+Digital Storage,Mebibyte,Pebibit,7.4506e-9
+Digital Storage,Mebibyte,Pebibyte,9.3132e-10
+Digital Storage,Gigabit,Bit,1e+9
+Digital Storage,Gigabit,Byte,1.25e+8
+Digital Storage,Gigabit,Kilobit,1e+6
+Digital Storage,Gigabit,Kilobyte,125000
+Digital Storage,Gigabit,Kibibit,976563
+Digital Storage,Gigabit,Kibibyte,122070
+Digital Storage,Gigabit,Megabit,1000
+Digital Storage,Gigabit,Megabyte,125
+Digital Storage,Gigabit,Mebibit,953.674
+Digital Storage,Gigabit,Mebibyte,119.209
+Digital Storage,Gigabit,Gigabyte,0.125
+Digital Storage,Gigabit,Gibibit,0.931323
+Digital Storage,Gigabit,Gibibyte,0.116415
+Digital Storage,Gigabit,Terabit,0.001
+Digital Storage,Gigabit,Terabyte,0.000125
+Digital Storage,Gigabit,Tebibit,0.000909495
+Digital Storage,Gigabit,Tebibyte,0.000113687
+Digital Storage,Gigabit,Petabit,1e-6
+Digital Storage,Gigabit,Petabyte,1.25e-7
+Digital Storage,Gigabit,Pebibit,8.8818e-7
+Digital Storage,Gigabit,Pebibyte,1.1102e-7
+Digital Storage,Gigabyte,Bit,8e+9
+Digital Storage,Gigabyte,Byte,1e+9
+Digital Storage,Gigabyte,Kilobit,8e+6
+Digital Storage,Gigabyte,Kilobyte,1e+6
+Digital Storage,Gigabyte,Kibibit,7.813e+6
+Digital Storage,Gigabyte,Kibibyte,976563
+Digital Storage,Gigabyte,Megabit,8000
+Digital Storage,Gigabyte,Megabyte,1000
+Digital Storage,Gigabyte,Mebibit,7629.39
+Digital Storage,Gigabyte,Mebibyte,953.674
+Digital Storage,Gigabyte,Gigabit,8
+Digital Storage,Gigabyte,Gibibit,7.45058
+Digital Storage,Gigabyte,Gibibyte,0.931323
+Digital Storage,Gigabyte,Terabit,0.008
+Digital Storage,Gigabyte,Terabyte,0.001
+Digital Storage,Gigabyte,Tebibit,0.00727596
+Digital Storage,Gigabyte,Tebibyte,0.000909495
+Digital Storage,Gigabyte,Petabit,8e-6
+Digital Storage,Gigabyte,Petabyte,1e-6
+Digital Storage,Gigabyte,Pebibit,7.1054e-6
+Digital Storage,Gigabyte,Pebibyte,8.8818e-7
+Digital Storage,Gibibit,Bit,1.074e+9
+Digital Storage,Gibibit,Byte,1.342e+8
+Digital Storage,Gibibit,Kilobit,1.074e+6
+Digital Storage,Gibibit,Kilobyte,134218
+Digital Storage,Gibibit,Kibibit,1.049e+6
+Digital Storage,Gibibit,Kibibyte,131072
+Digital Storage,Gibibit,Megabit,1073.74
+Digital Storage,Gibibit,Megabyte,134.218
+Digital Storage,Gibibit,Mebibit,1024
+Digital Storage,Gibibit,Mebibyte,128
+Digital Storage,Gibibit,Gigabit,1.07374
+Digital Storage,Gibibit,Gigabyte,0.134218
+Digital Storage,Gibibit,Gibibyte,0.125
+Digital Storage,Gibibit,Terabit,0.00107374
+Digital Storage,Gibibit,Terabyte,0.000134218
+Digital Storage,Gibibit,Tebibit,0.000976563
+Digital Storage,Gibibit,Tebibyte,0.00012207
+Digital Storage,Gibibit,Petabit,1.0737e-6
+Digital Storage,Gibibit,Petabyte,1.3422e-7
+Digital Storage,Gibibit,Pebibit,9.5367e-7
+Digital Storage,Gibibit,Pebibyte,1.1921e-7
+Digital Storage,Gibibyte,Bit,8.59e+9
+Digital Storage,Gibibyte,Byte,1.074e+9
+Digital Storage,Gibibyte,Kilobit,8.59e+6
+Digital Storage,Gibibyte,Kilobyte,1.074e+6
+Digital Storage,Gibibyte,Kibibit,8.389e+6
+Digital Storage,Gibibyte,Kibibyte,1.049e+6
+Digital Storage,Gibibyte,Megabit,8589.93
+Digital Storage,Gibibyte,Megabyte,1073.74
+Digital Storage,Gibibyte,Mebibit,8192
+Digital Storage,Gibibyte,Mebibyte,1024
+Digital Storage,Gibibyte,Gigabit,8.58993
+Digital Storage,Gibibyte,Gigabyte,1.07374
+Digital Storage,Gibibyte,Gibibit,8
+Digital Storage,Gibibyte,Terabit,0.00858993
+Digital Storage,Gibibyte,Terabyte,0.00107374
+Digital Storage,Gibibyte,Tebibit,0.0078125
+Digital Storage,Gibibyte,Tebibyte,0.000976563
+Digital Storage,Gibibyte,Petabit,8.5899e-6
+Digital Storage,Gibibyte,Petabyte,1.0737e-6
+Digital Storage,Gibibyte,Pebibit,7.6294e-6
+Digital Storage,Gibibyte,Pebibyte,9.5367e-7
+Digital Storage,Terabit,Bit,1e+12
+Digital Storage,Terabit,Byte,1.25e+11
+Digital Storage,Terabit,Kilobit,1e+9
+Digital Storage,Terabit,Kilobyte,1.25e+8
+Digital Storage,Terabit,Kibibit,9.766e+8
+Digital Storage,Terabit,Kibibyte,1.221e+8
+Digital Storage,Terabit,Megabit,1e+6
+Digital Storage,Terabit,Megabyte,125000
+Digital Storage,Terabit,Mebibit,953674
+Digital Storage,Terabit,Mebibyte,119209
+Digital Storage,Terabit,Gigabit,1000
+Digital Storage,Terabit,Gigabyte,125
+Digital Storage,Terabit,Gibibit,931.323
+Digital Storage,Terabit,Gibibyte,116.415
+Digital Storage,Terabit,Terabyte,0.125
+Digital Storage,Terabit,Tebibit,0.909495
+Digital Storage,Terabit,Tebibyte,0.113687
+Digital Storage,Terabit,Petabit,0.001
+Digital Storage,Terabit,Petabyte,0.000125
+Digital Storage,Terabit,Pebibit,0.000888178
+Digital Storage,Terabit,Pebibyte,0.000111022
+Digital Storage,Terabyte,Bit,8e+12
+Digital Storage,Terabyte,Byte,1e+12
+Digital Storage,Terabyte,Kilobit,8e+9
+Digital Storage,Terabyte,Kilobyte,1e+9
+Digital Storage,Terabyte,Kibibit,7.813e+9
+Digital Storage,Terabyte,Kibibyte,9.766e+8
+Digital Storage,Terabyte,Megabit,8e+6
+Digital Storage,Terabyte,Megabyte,1e+6
+Digital Storage,Terabyte,Mebibit,7.629e+6
+Digital Storage,Terabyte,Mebibyte,953674
+Digital Storage,Terabyte,Gigabit,8000
+Digital Storage,Terabyte,Gigabyte,1000
+Digital Storage,Terabyte,Gibibit,7450.58
+Digital Storage,Terabyte,Gibibyte,931.323
+Digital Storage,Terabyte,Terabit,8
+Digital Storage,Terabyte,Tebibit,7.27596
+Digital Storage,Terabyte,Tebibyte,0.909495
+Digital Storage,Terabyte,Petabit,0.008
+Digital Storage,Terabyte,Petabyte,0.001
+Digital Storage,Terabyte,Pebibit,0.00710543
+Digital Storage,Terabyte,Pebibyte,0.000888178
+Digital Storage,Tebibit,Bit,1.1e+12
+Digital Storage,Tebibit,Byte,1.374e+11
+Digital Storage,Tebibit,Kilobit,1.1e+9
+Digital Storage,Tebibit,Kilobyte,1.374e+8
+Digital Storage,Tebibit,Kibibit,1.074e+9
+Digital Storage,Tebibit,Kibibyte,1.342e+8
+Digital Storage,Tebibit,Megabit,1.1e+6
+Digital Storage,Tebibit,Megabyte,137439
+Digital Storage,Tebibit,Mebibit,1.049e+6
+Digital Storage,Tebibit,Mebibyte,131072
+Digital Storage,Tebibit,Gigabit,1099.51
+Digital Storage,Tebibit,Gigabyte,137.439
+Digital Storage,Tebibit,Gibibit,1024
+Digital Storage,Tebibit,Gibibyte,128
+Digital Storage,Tebibit,Terabit,1.09951
+Digital Storage,Tebibit,Terabyte,0.137439
+Digital Storage,Tebibit,Tebibyte,0.125
+Digital Storage,Tebibit,Petabit,0.00109951
+Digital Storage,Tebibit,Petabyte,0.000137439
+Digital Storage,Tebibit,Pebibit,0.000976563
+Digital Storage,Tebibit,Pebibyte,0.00012207
+Digital Storage,Tebibyte,Bit,8.796e+12
+Digital Storage,Tebibyte,Byte,1.1e+12
+Digital Storage,Tebibyte,Kilobit,8.796e+9
+Digital Storage,Tebibyte,Kilobyte,1.1e+9
+Digital Storage,Tebibyte,Kibibit,8.59e+9
+Digital Storage,Tebibyte,Kibibyte,1.074e+9
+Digital Storage,Tebibyte,Megabit,8.796e+6
+Digital Storage,Tebibyte,Megabyte,1.1e+6
+Digital Storage,Tebibyte,Mebibit,8.389e+6
+Digital Storage,Tebibyte,Mebibyte,1.049e+6
+Digital Storage,Tebibyte,Gigabit,8796.09
+Digital Storage,Tebibyte,Gigabyte,1099.51
+Digital Storage,Tebibyte,Gibibit,8192
+Digital Storage,Tebibyte,Gibibyte,1024
+Digital Storage,Tebibyte,Terabit,8.79609
+Digital Storage,Tebibyte,Terabyte,1.09951
+Digital Storage,Tebibyte,Tebibit,8
+Digital Storage,Tebibyte,Petabit,0.00879609
+Digital Storage,Tebibyte,Petabyte,0.00109951
+Digital Storage,Tebibyte,Pebibit,0.0078125
+Digital Storage,Tebibyte,Pebibyte,0.000976563
+Digital Storage,Petabit,Bit,1e+15
+Digital Storage,Petabit,Byte,1.25e+14
+Digital Storage,Petabit,Kilobit,1e+12
+Digital Storage,Petabit,Kilobyte,1.25e+11
+Digital Storage,Petabit,Kibibit,9.766e+11
+Digital Storage,Petabit,Kibibyte,1.221e+11
+Digital Storage,Petabit,Megabit,1e+9
+Digital Storage,Petabit,Megabyte,1.25e+8
+Digital Storage,Petabit,Mebibit,9.537e+8
+Digital Storage,Petabit,Mebibyte,1.192e+8
+Digital Storage,Petabit,Gigabit,1e+6
+Digital Storage,Petabit,Gigabyte,125000
+Digital Storage,Petabit,Gibibit,931323
+Digital Storage,Petabit,Gibibyte,116415
+Digital Storage,Petabit,Terabit,1000
+Digital Storage,Petabit,Terabyte,125
+Digital Storage,Petabit,Tebibit,909.495
+Digital Storage,Petabit,Tebibyte,113.687
+Digital Storage,Petabit,Petabyte,0.125
+Digital Storage,Petabit,Pebibit,0.888178
+Digital Storage,Petabit,Pebibyte,0.111022
+Digital Storage,Petabyte,Bit,8e+15
+Digital Storage,Petabyte,Byte,1e+15
+Digital Storage,Petabyte,Kilobit,8e+12
+Digital Storage,Petabyte,Kilobyte,1e+12
+Digital Storage,Petabyte,Kibibit,7.813e+12
+Digital Storage,Petabyte,Kibibyte,9.766e+11
+Digital Storage,Petabyte,Megabit,8e+9
+Digital Storage,Petabyte,Megabyte,1e+9
+Digital Storage,Petabyte,Mebibit,7.629e+9
+Digital Storage,Petabyte,Mebibyte,9.537e+8
+Digital Storage,Petabyte,Gigabit,8e+6
+Digital Storage,Petabyte,Gigabyte,1e+6
+Digital Storage,Petabyte,Gibibit,7.451e+6
+Digital Storage,Petabyte,Gibibyte,931323
+Digital Storage,Petabyte,Terabit,8000
+Digital Storage,Petabyte,Terabyte,1000
+Digital Storage,Petabyte,Tebibit,7275.96
+Digital Storage,Petabyte,Tebibyte,909.495
+Digital Storage,Petabyte,Petabit,8
+Digital Storage,Petabyte,Pebibit,7.10543
+Digital Storage,Petabyte,Pebibyte,0.888178
+Digital Storage,Pebibit,Bit,1.126e+15
+Digital Storage,Pebibit,Byte,1.407e+14
+Digital Storage,Pebibit,Kilobit,1.126e+12
+Digital Storage,Pebibit,Kilobyte,1.407e+11
+Digital Storage,Pebibit,Kibibit,1.1e+12
+Digital Storage,Pebibit,Kibibyte,1.374e+11
+Digital Storage,Pebibit,Megabit,1.126e+9
+Digital Storage,Pebibit,Megabyte,1.407e+8
+Digital Storage,Pebibit,Mebibit,1.074e+9
+Digital Storage,Pebibit,Mebibyte,1.342e+8
+Digital Storage,Pebibit,Gigabit,1.126e+6
+Digital Storage,Pebibit,Gigabyte,140737
+Digital Storage,Pebibit,Gibibit,1.049e+6
+Digital Storage,Pebibit,Gibibyte,131072
+Digital Storage,Pebibit,Terabit,1125.9
+Digital Storage,Pebibit,Terabyte,140.737
+Digital Storage,Pebibit,Tebibit,1024
+Digital Storage,Pebibit,Tebibyte,128
+Digital Storage,Pebibit,Petabit,1.1259
+Digital Storage,Pebibit,Petabyte,0.140737
+Digital Storage,Pebibit,Pebibyte,0.125
+Digital Storage,Pebibyte,Pebibit,8
+Digital Storage,Pebibyte,Byte,1.126e+15
+Digital Storage,Pebibyte,Kilobit,9.007e+12
+Digital Storage,Pebibyte,Kilobyte,1.126e+12
+Digital Storage,Pebibyte,Kibibit,8.796e+12
+Digital Storage,Pebibyte,Kibibyte,1.1e+12
+Digital Storage,Pebibyte,Megabit,9.007e+9
+Digital Storage,Pebibyte,Megabyte,1.126e+9
+Digital Storage,Pebibyte,Mebibit,8.59e+9
+Digital Storage,Pebibyte,Mebibyte,1.074e+9
+Digital Storage,Pebibyte,Gigabit,9.007e+6
+Digital Storage,Pebibyte,Gigabyte,1.126e+6
+Digital Storage,Pebibyte,Gibibit,8.389e+6
+Digital Storage,Pebibyte,Gibibyte,1.049e+6
+Digital Storage,Pebibyte,Terabit,9007.2
+Digital Storage,Pebibyte,Terabyte,1125.9
+Digital Storage,Pebibyte,Tebibit,8192
+Digital Storage,Pebibyte,Tebibyte,1024
+Digital Storage,Pebibyte,Petabit,9.0072
+Digital Storage,Pebibyte,Petabyte,1.1259
